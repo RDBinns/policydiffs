@@ -1,0 +1,34 @@
+ <p>We collect no personal information about you when you visit our website unless you choose to provide this information to us.
+However, we collect and store certain information automatically.
+Here is how we handle information about your visit to our website.</p>
+<p>
+<strong>What We Collect and Store Automatically</strong>
+<br>
+If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically.
+This information does not identify you personally.
+We automatically collect and store only the following information about your visit:</p>
+<ul>
+<li>The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;</li>
+<li>The type of browser and operating system used to access our site;</li>
+<li>The date and time you access our site;</li>
+<li>The pages you visit.
+and</li>
+<li>If you linked to our website from another website, the address of that website.
+We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you.</li>
+</ul>
+<p>
+<strong>If You Send Us E-mail</strong>
+<br>
+You may choose to provide us with personal information, as in e-mail with a comment or question.
+We use the information to improve our service to you or to respond to your request.
+Sometimes we forward your e-mail to other government employees or authorized concessioners who may be better able to help you.
+Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.</p>
+<p>
+<strong>Links to Other Sites</strong>
+<br>
+Our website has many links to our partners, especially other federal agencies.
+In a few cases we link to private organizations.
+When you click one of these partner links, you are no longer on our site and are subject to the privacy policy of the new site.</p>
+<p>
+<strong>More Information<br>
+</strong>Department of Interior Privacy Policy<br>Department of Interior Childrens Privacy Policy</p> 

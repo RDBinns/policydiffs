@@ -1,0 +1,176 @@
+ Main Menu <ul>
+<li>Customer Service</li>
+<li>Recall Information</li>
+<li>International</li>
+<li> En Español </li>
+</ul>
+<ul>
+<li> Products <ul>
+<li> Age <ul>
+<li>Baby-on-the-way</li>
+<li>Birth-6 months</li>
+<li>6-12 months</li>
+<li>12-24 months</li>
+<li>2-3 years</li>
+<li>3-4 years</li>
+<li>4-5 years</li>
+<li>5+ years</li>
+</ul>
+</li>
+<li> Brands <ul>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>View All &gt;</li>
+</ul>
+</li>
+<li> Category <ul>
+<li>Babygear</li>
+<li>Baby Toys</li>
+<li>Battery Powered Ride-Ons</li>
+<li>Digital Play</li>
+<li>Dollhouses &amp.
+Dolls</li>
+<li>Learning Toys</li>
+<li>Playsets with Figures</li>
+<li>Sports &amp.
+Outdoor Toys</li>
+<li>Toy Cars, Trucks &amp.
+Vehicles</li>
+<li>Train Sets</li>
+<li>View All &gt;</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+</li>
+<li> Everything Baby <ul>
+<li>Gear, toys, and parenting tips for baby's first year</li>
+</ul>
+</li>
+<li>
+</li>
+<li> Toddler &amp.
+Preschooler <ul>
+<li>Kids' favorite characters &amp.
+brands</li>
+</ul>
+</li>
+<li>
+</li>
+<li> Tips &amp.
+Tools <ul>
+<li>Age-by-Age Playtime Guide</li>
+<li>Sharing Moments of Joy</li>
+<li>Parenting Topics</li>
+<li>For Grandparents</li>
+<li>Email Newsletter Sign-up</li>
+</ul>
+</li>
+<li>
+</li>
+<li> Games &amp.
+Activities <ul>
+<li>Online Games</li>
+<li>Apps for Kids</li>
+<li>Online Videos</li>
+<li>Print &amp.
+Color Pages</li>
+<li>Crafts</li>
+<li>Birthday Party Ideas</li>
+</ul>
+</li>
+<li>
+</li>
+<li> Store <ul>
+<li>Our Online Store</li>
+<li>F-P Music Store</li>
+<li>Special Offers</li>
+</ul>
+</li>
+</ul>
+<ul>
+</ul>
+<ul>
+<li>Products</li>
+<li>Find a Product</li>
+</ul>
+<ul>
+<li>Baby</li>
+<li>Gear, toys, and more essentials for baby</li>
+</ul>
+<ul>
+<li>Family Playtime</li>
+<li>Playtime Guide</li>
+<li>Sharing Moments of Joy</li>
+<li>Parenting Topics</li>
+<li>For Grandparents</li>
+</ul>
+<ul>
+<li>Games &amp.
+Activities</li>
+<li>Online Games</li>
+<li>Crafts</li>
+<li>Coloring Pages</li>
+<li>Birthday Party Ideas</li>
+</ul>
+<ul>
+<li>Shop Now</li>
+<li>Our Online Store</li>
+<li>Find a Retailer</li>
+<li>Fisher-Price Music</li>
+<li>Replacement Parts</li>
+<li>Request a Catalog</li>
+</ul>
+<ul>
+<li>About</li>
+<li>Take a Virtual Tour</li>
+<li>About Us</li>
+<li>International Sites</li>
+<li>Mattel, Our Parent Co.</li>
+</ul>
+<ul>
+<li>Customer Service</li>
+</ul>
+<ul>
+<li>Product Registration</li>
+</ul>
+<ul>
+<li>Recall Information</li>
+</ul>
+<ul>
+<li>Share</li>
+<li>Join Us on Facebook</li>
+</ul>
+<ul>
+<li>Email</li>
+<li>Subscribe</li>
+<li>Update Email Profile</li>
+</ul>
+<ul>
+<li>Got Ideas? <br>We're Listening!</li>
+</ul>
+<ul>
+<li>
+Fisher-Price Terms and Conditions (UPDATED) | </li>
+<li>
+Privacy Statement (NEW) | </li>
+<li>© 2014 Mattel.
+All Rights Reserved.</li>
+</ul>
+<ul>
+<li>
+Home for Fisher-Price Toys &amp.
+more | </li>
+<li>Use of this site signifies your acceptance of the terms and conditions of use.</li>
+</ul>
+<p>out of</p>
+<p>vote(s)</p>
+<p>View All</p>
+<p>Items Per Page</p> 
